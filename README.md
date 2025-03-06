@@ -101,7 +101,7 @@ The frontend will run on http://localhost:5173.
 1. Sign up for open/Cursor AI and get your API key.
 2. Update the OPEN_AI_API_KEY/CURSOR_AI_API_KEY in the .env file.
 
-### Running the Application
+## Running the Application
 1. Start the backend:
 ```bash
 cd backend
